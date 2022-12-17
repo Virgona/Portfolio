@@ -1,7 +1,25 @@
 .footerStyles {
-    display: 'flex';
-    justify-Content: 'center';
-    align-items: 'center';
-    background-color: 'lightblue';
-    height: '150px';
+    display: flex;
+    justify-Content: center;
+    align-items: center;
+    background-color: lightblue;
+    height: 150px;
+}
+
+.iconStyles {
+    font-size: 2.5rem;
+    padding: 0.2rem;
+}
+#git:hover {
+     color: dimgrey;
+     cursor: pointer;
+}
+#linkedin:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+#podcast:hover {
+    color: green;
+    cursor: pointer;
 }
