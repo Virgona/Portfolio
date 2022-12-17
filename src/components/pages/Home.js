@@ -1,4 +1,5 @@
 import React from 'react';
+import './Home.css'
 
 export default function Home() {
   const styles = {
@@ -9,7 +10,7 @@ export default function Home() {
   return (
 
     <div>
-      <h2>About Me:</h2>
+      <h2 className='position'>About Me:</h2>
       <div class="card border-info mb-3" style={styles.card}>
         <div class="row g-0">
           <div class="col-md-4">

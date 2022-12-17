@@ -1,16 +1,8 @@
 import React from 'react';
-
+import './Header.css'
 export default function Header() {
-    const headerStyles = {
-        display: 'flex',
-        alignSelf: 'flex-end',
-        backgroundColor: 'lightblue',
-        height: '150px',
-
-
-    }
     return (
-        <div style={headerStyles}>
+        <div class='header'>
             <h1>Toby's Portfolio</h1>
         </div>
     );

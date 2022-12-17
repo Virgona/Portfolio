@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    background-color: lightblue;
+    height: 150px;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    padding-left: 2rem;
+}
