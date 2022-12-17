@@ -1,0 +1,7 @@
+.footerStyles {
+    display: 'flex';
+    justify-Content: 'center';
+    align-items: 'center';
+    background-color: 'lightblue';
+    height: '150px';
+}
