@@ -4,15 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGithub, faLinkedin, faSpotify } from '@fortawesome/free-brands-svg-icons'
 
 export default function Footer() {
-    // const footerStyles = {
-    //     display: 'flex',
-    //     justifyContent: 'center',
-    //     alignItems: 'center',
-    //     backgroundColor: 'lightblue',
-    //     height: '150px',
 
-
-    // }
     return (
         <footer className='footerStyles'>
             <p className='iconStyles' id='git'><a target='blank' href='https://github.com/Virgona'><FontAwesomeIcon icon={faGithub} /></a> </p>

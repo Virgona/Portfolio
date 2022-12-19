@@ -7,7 +7,7 @@ export default function Projects() {
       <h2 className='title'>Projects:</h2>
       <div class="container text-center">
         <div class="row">
-          <div class="col">
+          <div class="col-12">
             <div class="card">
               <img src="../public/whats-on.png" class="card-img-top" alt="movie application" />
               <div class="card-body">
