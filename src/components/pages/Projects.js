@@ -1,26 +1,25 @@
 import React from 'react';
 import './Projects.css'
 export default function Projects() {
-  const style = {
-    width: '18rem'
-  }
+
   return (
     < div >
       <h2 className='title'>Projects:</h2>
       <div class="container text-center">
         <div class="row">
           <div class="col">
-            <div class="card" style={style}>
+            <div class="card">
               <img src="../public/whats-on.png" class="card-img-top" alt="movie application" />
               <div class="card-body">
                 <h5 class="card-title">What's On</h5>
                 <p class="card-text">A movie curation application where 20 films are suggested for you to watch determined by your choice of genre.</p>
                 <a href="https://virgona.github.io/Whats-on/" target='blank' class="btn btn-primary">View App</a>
+                <a href="https://github.com/Virgona/Whats-on.git" target='blank' class="btn btn-primary">Repo</a>
               </div>
             </div>
           </div>
           <div class="col">
-            <div class="card" style={style}>
+            <div class="card">
               <img src="..." class="card-img-top" alt="fourm application" />
               <div class="card-body">
                 <h5 class="card-title">Music Fwends</h5>
@@ -30,7 +29,7 @@ export default function Projects() {
             </div>
           </div>
           <div class="col">
-            <div class="card" style={style}>
+            <div class="card">
               <img src="..." class="card-img-top" alt="weather app" />
               <div class="card-body">
                 <h5 class="card-title">Weather App</h5>
@@ -44,7 +43,7 @@ export default function Projects() {
       <div class="container text-center" id='container2'>
         <div class="row">
           <div class="col">
-            <div class="card" style={style}>
+            <div class="card">
               <img src="..." class="card-img-top" alt="note taker" />
               <div class="card-body">
                 <h5 class="card-title">Note Taker</h5>
@@ -54,7 +53,7 @@ export default function Projects() {
             </div>
           </div>
           <div class="col">
-            <div class="card" style={style}>
+            <div class="card">
               <img src="..." class="card-img-top" alt="text editor app" />
               <div class="card-body">
                 <h5 class="card-title">JATE</h5>
@@ -64,7 +63,7 @@ export default function Projects() {
             </div>
           </div>
           <div class="col">
-            <div class="card" style={style}>
+            <div class="card">
               <img src="..." class="card-img-top" alt="password generator" />
               <div class="card-body">
                 <h5 class="card-title">Password Generator</h5>
