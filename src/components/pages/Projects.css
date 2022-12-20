@@ -1,14 +1,3 @@
-.container {
-    display: flex;
-    justify-content: center;
-}
-#container2 {
-    padding-bottom: 1rem;
-}
-.title{
-    padding-left: 2rem;
-    padding-top: 0.5rem;
-}
-.card {
-    width: 18rem
+.btn{
+    margin: 5px;
 }

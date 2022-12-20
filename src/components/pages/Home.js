@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css'
-// import ProfilePicture from '../../../public/assets/me.jpg'
+import ProfilePicture from '../../assets/me.jpg'
 
 export default function Home() {
 
@@ -8,13 +8,13 @@ export default function Home() {
 
     <div>
       <h2 className='position'>About Me:</h2>
-      <div class="container">
+      <div class="container text-center">
         <div class="row">
           <div class="col">
             <div className="card border-info mb-3 container-fluid">
               <div class="row g-0">
                 <div class="col-md-3">
-                  <img src="" class="img-fluid rounded-start" alt="a handsome man" />
+                  <img src={ProfilePicture} class="img-fluid rounded-start" alt="a handsome man" />
                 </div>
                 <div class="col-md-8">
                   <div class="card-body">
