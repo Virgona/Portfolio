@@ -15,7 +15,7 @@ export default function Projects() {
       <div class="container text-center">
         <div class="row">
           <div class="col">
-            <div class="card border-info mb-3 mx-auto">
+            <div class="card border-info mb-3 mx-auto align-items-center">
               <img src={whatsOn} class="card-img-top" alt="movie application" />
               <div class="card-body">
                 <h5 class="card-title">What's On</h5>
@@ -26,7 +26,7 @@ export default function Projects() {
             </div>
           </div>
           <div class="col">
-            <div class="card border-danger mb-3 mx-auto">
+            <div class="card border-danger mb-3 mx-auto align-items-center">
               <img src={fwends} class="card-img-top" alt="fourm application" />
               <div class="card-body">
                 <h5 class="card-title">Music Fwends</h5>
@@ -37,7 +37,7 @@ export default function Projects() {
             </div>
           </div>
           <div class="col">
-            <div class="card border-info mb-3 mx-auto">
+            <div class="card border-info mb-3 mx-auto align-items-center">
               <img src={weather} class="card-img-top" alt="weather app" />
               <div class="card-body">
                 <h5 class="card-title">Weather App</h5>
@@ -52,7 +52,7 @@ export default function Projects() {
       <div class="container text-center" id='container2'>
         <div class="row">
           <div class="col">
-            <div class="card border-danger mb-3 mx-auto">
+            <div class="card border-danger mb-3 mx-auto align-items-center">
               <img src={wds} class="card-img-top" alt="note taker" />
               <div class="card-body">
                 <h5 class="card-title">Work Day Scheduler</h5>
@@ -63,7 +63,7 @@ export default function Projects() {
             </div>
           </div>
           <div class="col">
-            <div class="card border-info mb-3 mx-auto">
+            <div class="card border-info mb-3 mx-auto align-items-center">
               <img src={jate} class="card-img-top" alt="text editor app" />
               <div class="card-body">
                 <h5 class="card-title">JATE</h5>
@@ -74,7 +74,7 @@ export default function Projects() {
             </div>
           </div>
           <div class="col">
-            <div class="card border-danger mb-3 mx-auto">
+            <div class="card border-danger mb-3 mx-auto align-items-center">
               <img src={password} class="card-img-top" alt="password generator" />
               <div class="card-body">
                 <h5 class="card-title">Password Generator</h5>

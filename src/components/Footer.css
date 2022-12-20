@@ -3,7 +3,7 @@
     justify-Content: center;
     align-items: center;
     background-color: lightblue;
-    height: 150px;
+    height: 100px;
 }
 
 .iconStyles {
@@ -24,7 +24,5 @@
     cursor: pointer;
 }
 footer{
-    position: fixed;
-    bottom: 0;
     width: 100vw;
 }
