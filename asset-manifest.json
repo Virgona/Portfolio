@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.dab09664.chunk.css",
+    "main.css": "/Portfolio/static/css/main.9c36058c.chunk.css",
     "main.js": "/Portfolio/static/js/main.e99806b5.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.e99806b5.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.f112aacb.js",
@@ -10,7 +10,7 @@
     "static/js/2.12642e98.chunk.js.map": "/Portfolio/static/js/2.12642e98.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.f26e749f.chunk.css.map": "/Portfolio/static/css/2.f26e749f.chunk.css.map",
-    "static/css/main.dab09664.chunk.css.map": "/Portfolio/static/css/main.dab09664.chunk.css.map",
+    "static/css/main.9c36058c.chunk.css.map": "/Portfolio/static/css/main.9c36058c.chunk.css.map",
     "static/js/2.12642e98.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.12642e98.chunk.js.LICENSE.txt",
     "static/media/Password-Generator.dfc0815a.png": "/Portfolio/static/media/Password-Generator.dfc0815a.png",
     "static/media/Whats-on.ac4b33f2.png": "/Portfolio/static/media/Whats-on.ac4b33f2.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.f112aacb.js",
     "static/css/2.f26e749f.chunk.css",
     "static/js/2.12642e98.chunk.js",
-    "static/css/main.dab09664.chunk.css",
+    "static/css/main.9c36058c.chunk.css",
     "static/js/main.e99806b5.chunk.js"
   ]
 }
