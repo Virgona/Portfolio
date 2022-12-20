@@ -1,5 +1,6 @@
 import React from 'react';
 import './Projects.css'
+// importing images and assigning them variables
 import whatsOn from "../../assets/Whats-on.png"
 import fwends from "../../assets/music-fwends.jpg"
 import jate from "../../assets/JATE.png"

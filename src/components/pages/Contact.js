@@ -10,6 +10,10 @@ export default function Contact() {
         <div class="row">
           <div class="col-lg-">
             <div className="form-floating mb-3">
+              <input type="text" class="form-control" id="floatingInput" placeholder="name@example.com" />
+              <label for="floatingInput">Name</label>
+            </div>
+            <div className="form-floating mb-3">
               <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" />
               <label for="floatingInput">Email address</label>
             </div>

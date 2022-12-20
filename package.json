@@ -1,7 +1,8 @@
 {
-  "name": "00-practice-app",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Virgona.github.io/Portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
@@ -13,6 +14,7 @@
     "@testing-library/user-event": "^12.1.10",
     "axios": "^1.2.1",
     "bootstrap": "^5.2.3",
+    "gh-pages": "^4.0.0",
     "pretty": "^2.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -20,6 +22,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

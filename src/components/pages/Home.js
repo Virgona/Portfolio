@@ -1,5 +1,6 @@
 import React from 'react';
 import './Home.css'
+// impoorting image to variable
 import ProfilePicture from '../../assets/me.jpg'
 
 export default function Home() {
