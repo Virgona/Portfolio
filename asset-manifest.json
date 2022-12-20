@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b46fb72b.chunk.css",
+    "main.js": "/Portfolio/static/js/main.da5778b8.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.da5778b8.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.f112aacb.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.f112aacb.js.map",
+    "static/css/2.f26e749f.chunk.css": "/Portfolio/static/css/2.f26e749f.chunk.css",
+    "static/js/2.f54b9be6.chunk.js": "/Portfolio/static/js/2.f54b9be6.chunk.js",
+    "static/js/2.f54b9be6.chunk.js.map": "/Portfolio/static/js/2.f54b9be6.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/Portfolio/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.b46fb72b.chunk.css.map": "/Portfolio/static/css/main.b46fb72b.chunk.css.map",
+    "static/js/2.f54b9be6.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.f54b9be6.chunk.js.LICENSE.txt",
+    "static/media/Password-Generator.dfc0815a.png": "/Portfolio/static/media/Password-Generator.dfc0815a.png",
+    "static/media/Whats-on.ac4b33f2.png": "/Portfolio/static/media/Whats-on.ac4b33f2.png",
+    "static/media/me.907c0740.jpg": "/Portfolio/static/media/me.907c0740.jpg",
+    "static/media/music-fwends.0c9c3984.jpg": "/Portfolio/static/media/music-fwends.0c9c3984.jpg",
+    "static/media/wds.ada2deb4.png": "/Portfolio/static/media/wds.ada2deb4.png",
+    "static/media/weather.d7e8036c.png": "/Portfolio/static/media/weather.d7e8036c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f112aacb.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.f54b9be6.chunk.js",
+    "static/css/main.b46fb72b.chunk.css",
+    "static/js/main.da5778b8.chunk.js"
+  ]
+}
