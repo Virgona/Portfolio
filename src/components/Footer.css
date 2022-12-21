@@ -11,16 +11,16 @@
     padding: 0.2rem;
 }
 #git:hover {
-     color: dimgrey;
+     color: dimgrey !important;
      cursor: pointer;
 }
 #linkedin:hover {
-    color: blue;
+    color: blue !important;
     cursor: pointer;
 }
 
 #podcast:hover {
-    color: green;
+    color: green !important;
     cursor: pointer;
 }
 footer{
