@@ -1,25 +1,30 @@
 .footerStyles {
     display: flex;
+    flex-direction: row;
     justify-Content: center;
     align-items: center;
+    align-items: baseline;
     background-color: lightblue;
     height: 100px;
 }
 
 .iconStyles {
-    font-size: 2.5rem;
+    font-size: 2rem;
     padding: 0.2rem;
 }
-#git:hover {
+.color{
+    color: black;
+}
+.git:hover {
      color: dimgrey !important;
      cursor: pointer;
 }
-#linkedin:hover {
+.linkedin:hover {
     color: blue !important;
     cursor: pointer;
 }
 
-#podcast:hover {
+.podcast:hover {
     color: green !important;
     cursor: pointer;
 }
