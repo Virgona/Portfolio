@@ -1,6 +1,5 @@
 import React from 'react';
 import './Home.css'
-// impoorting image to variable
 import ProfilePicture from '../../assets/me.jpg'
 
 export default function Home() {
@@ -9,18 +8,18 @@ export default function Home() {
 
     <div>
       <h2 className='position'>About Me:</h2>
-      <div class="container text-center">
-        <div class="row">
-          <div class="col">
+      <div className="container text-center">
+        <div className="row">
+          <div className="col">
             <div className="card border-info mb-3 container-fluid">
-              <div class="row g-0">
-                <div class="col-md-3">
+              <div className="row g-0">
+                <div className="col-md-3">
                   <img src={ProfilePicture} class="img-fluid rounded-start" alt="a handsome man" />
                 </div>
-                <div class="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">A little about me..</h5>
-                    <p class="card-text"> Hello traveller, my name is Tobias. I am a 30 year old aspiring full-stack developer, podcast host, gamer and all round good dude.
+                <div className="col-md-8">
+                  <div className="card-body">
+                    <h5 className="card-title">A little about me..</h5>
+                    <p className="card-text"> Hello traveller, my name is Tobias. I am a 30 year old aspiring full-stack developer, podcast host, gamer and all round good dude.
                       I started learning some coding basics in 2021 and found myself falling in love, so in 2022 I signed up for a coding bootcamp to further hone some skills!
 
                       Film is my first love, I have studied Screen and Media at tafe which covered all sorts of filmmaking - writing scripts, cinematography, editing, practical effects and VFX.
